@@ -1,0 +1,3 @@
+# ALL, secondary fails, primary fires
+GT4500,5,0,5,1
+TORPEDO,ALL

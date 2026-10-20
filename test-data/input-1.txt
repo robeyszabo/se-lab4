@@ -1,0 +1,3 @@
+# SINGLE, first shot comes from the primary store (primary always fails)
+GT4500,5,1,5,0
+TORPEDO,SINGLE  # primary fired and failed
