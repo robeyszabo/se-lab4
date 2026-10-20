@@ -1,0 +1,5 @@
+# SINGLE goes back to the primary after the secondary
+GT4500,5,0,5,1
+TORPEDO,SINGLE  # primary (succeeds)
+TORPEDO,SINGLE  # secondary (fails)
+TORPEDO,SINGLE  # primary again (succeeds)
